@@ -11,9 +11,10 @@
     - Add DNS server (ip from AAD Domain Services)
 - Peer the vNets.
 - Create VM for Team Foundation Services 2017.
-    - Connect to domail AD
+    - Connect to domain AD
     - Install TFS 2017 on VM.
 - Create VM for SonarQube.
-        - Install SonarQUbe.
+    - Connect to domain AD
+    - Install SonarQUbe.
 - Create VM for Development.
         -Install Visual Studio 2017.
