@@ -10,3 +10,9 @@
 - Create Virtual Network (Resource Management).
     - Add DNS server (ip from AAD Domain Services)
 - Peer the vNets.
+- Create VM for Team Foundation Services 2017.
+    Install TFS 2017 on VM.
+- Create VM for SonarQube.
+        - Install SonarQUbe.
+- Create VM for Development.
+        -Install Visual Studio 2017.
