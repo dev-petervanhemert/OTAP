@@ -11,6 +11,11 @@
 - Create Virtual Network (Resource Management).
     - Add DNS server (ip from AAD Domain Services)
 - Peer the vNets.
+
+- Prerequisites for VM.
+        - Create NSG.
+        - Create Storage Account.
+        - Create Availebility Set.
 - Create VM for Team Foundation Services 2017.
     - Connect to domain AD
     - Install TFS 2017 on VM.
