@@ -3,7 +3,8 @@
 - Create or config Azure Active Directory.
     - Add goup AAD DC Administrators.
     - Create new User.
-    - Add new User to Group.    
+    - Add new User to Group. 
+    - Change pssword new user.       
 - Create AAD Domain Services.
 - Create Virtual Network (Classic).
     - Add DNS server (ip from AAD Domain Services)
