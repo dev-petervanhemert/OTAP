@@ -5,9 +5,9 @@
     - Create new User.
     - Add new User to Group. 
     - Change pssword new user.       
-- Create AAD Domain Services.
 - Create Virtual Network (Classic).
-    - Add DNS server (ip from AAD Domain Services)
+- Create AAD Domain Services.
+- Add DNS server from Domain Service to the classic Network.
 - Create Virtual Network (Resource Management).
     - Add DNS server (ip from AAD Domain Services)
 - Peer the vNets.
