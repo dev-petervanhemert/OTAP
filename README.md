@@ -1,4 +1,4 @@
-# OTAP in Azure
+# OTAP-on-Azure-Guide
 
 - Create or config Azure Active Directory.
     - Add goup AAD DC Administrators.
