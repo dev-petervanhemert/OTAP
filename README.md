@@ -4,7 +4,7 @@ Step 1. Create or config Azure Active Directory.
 
 Step 2. Create new Users.
     
-Step 4. Add goup AAD DC Administrators.
+Step 4. Create the Azure AD DC administrators group.
     
 Step 5. Change pssword new users. 
 
@@ -80,3 +80,12 @@ You need a user from your Azure AD to register an Azure AD app. Here's how to ad
 7. In the Get temporary password page, copy the temporary password, and click Complete icon. You use the temporary password when you first login to your AAD.
 > <img src="/Images/02-Add Users/06-AddUser.png" width="400"/> 
 After you click the Complete icon, a new Azure AD user is created.
+
+To complete the next step the new AAD user will need access to an Azure Subscription. You can either make the new user a co-admin on the existing subscription or you can create a new subscription for the new AAD user.
+
+## Create the Azure AD DC administrators group
+
+1. Go to the Azure classic portal( https://manage.windowsazure.com/ ).
+2. In the left pane, select the Active Directory button.
+3. Select the Azure AD tenant (directory) for which you want to enable Azure Active Directory Domain Services. You can create only one domain for each Azure AD directory.
+> <img src="/Images/03-CreateGroup/00-CreateGroup.png" width="400"/> 
