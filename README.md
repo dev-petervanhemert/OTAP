@@ -10,7 +10,7 @@ Step 5. Change pssword new users.
 
 Step 6. Add Users to Group. 
           
-Step 7. Create Virtual Network (Classic).
+Step 7. Create an Azure virtual network (Classic).
 
 Step 8. Create AAD Domain Services.
 
@@ -113,3 +113,6 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 > <img src="/Images/03-CreateGroup/03-AddGroupMember.png" width="600"/> 
 10. In the Add members dialog box, select the users who should be members of this group, and then click the checkmark icon at the lower right.
 > <img src="/Images/03-CreateGroup/02-AddGroupMember.png" width="600"/> 
+
+## Create an Azure virtual network
+> <img src="/Images/04-CreateVnet/01-CreateClassicNetwork.png" width="600"/> 
