@@ -89,3 +89,9 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 2. In the left pane, select the Active Directory button.
 3. Select the Azure AD tenant (directory) for which you want to enable Azure Active Directory Domain Services. You can create only one domain for each Azure AD directory.
 > <img src="/Images/03-CreateGroup/00-CreateGroup.png" width="400"/> 
+4. On the preview directory page, click the Groups tab.
+> <img src="/Images/03-CreateGroup/01-CreateGroup.png" width="400"/> 
+5. To add a group to your Azure AD tenant, on the task pane at the bottom of the window, click Add Group.
+> <img src="/Images/03-CreateGroup/04-CreateGroup.png" width="400"/> 
+6. In the Add Group dialog box, create a group named AAD DC Administrators, and then set Group Type to Security.
+> <img src="/Images/03-CreateGroup/02-CreateGroup.png" width="400"/> 
