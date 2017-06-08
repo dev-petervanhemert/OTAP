@@ -45,5 +45,5 @@
 
 You need a user from your Azure AD to register an Azure AD app. Here's how to add a user to your Azure Active Directory tenant:
 1. In your Azure Active Directory, click USERS.
-> <img src="/Images/02-02-Add Users/01-AddUser.png" width="600"/> 
+> <img src="/Images/02-Add Users/01-AddUser.png" width="600"/> 
 2. At the bottom of the page, click ADD USER. A user account is used to register a Data Catalog app.
