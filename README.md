@@ -18,9 +18,13 @@ Step 6. Add Users to Group.
 Step 7. Create Virtual Network (Classic).
 
 Step 8. Create AAD Domain Services.
+
 Step 9. Add DNS server from Domain Service to the classic Network.
+
 Step 10. Create Virtual Network (Resource Management).
+
 Step 11. Add DNS server (ip from AAD Domain Services)
+
 Step 12. Peer the vNets.
 
 Step 13. Prerequisites for VM.
@@ -60,3 +64,8 @@ You need a user from your Azure AD to register an Azure AD app. Here's how to ad
 1. In your Azure Active Directory, click USERS.
 > <img src="/Images/02-Add Users/01-AddUser.png" width="600"/> 
 2. At the bottom of the page, click ADD USER. A user account is used to register a Data Catalog app.
+3. In the Tell us about this user page:
+    a. For TYPE OF USER, choose New user in you organization.
+    b. Enter your USER NAME.
+    c. Click Next.
+> <img src="/Images/02-Add Users/02-AddUser.png" width="600"/> 
