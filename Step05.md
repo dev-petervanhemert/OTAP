@@ -44,7 +44,9 @@ Additional Azure Active Directory Domain Services configuration options appear o
 > <img src="/Images/05-AAD-Domain-Services/03-ADconfigDomainServices.png" width="600"/>
 - When high availability is operational for your domain, two IP addresses are displayed on the page. Your managed domain is available on your selected virtual network at these two IP addresses.
 10. Note the two IP addresses so that you can update the DNS settings for your virtual network. Doing so enables virtual machines on the virtual network to connect to the domain for operations such as domain join.
-> <img src="/Images/05-AAD-Domain-Services/03-ADconfigDomainServices.png" width="200"/>
+> <img src="/Images/05-AAD-Domain-Services/04-ADconfigDomainServices.png" width="200"/>
 
+        Note
 
+    Depending on the size of your Azure AD tenant (for example, the number of users or groups), synchronization to your managed domain takes a while. This synchronization process happens in the background. For large tenants with tens of thousands of objects, it might take a day or two for all users, group memberships, and credentials to be synchronized.
 
