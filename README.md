@@ -2,8 +2,12 @@
 
 - Create or config Azure Active Directory.
     - Add goup AAD DC Administrators.
-    - Create new User.
-    - Add new User to Group. 
+    - Create new Users.
+        - tfsServices user
+        - tfsBuild user
+        - tfsReport user
+        - tfsDeveloper users
+    - Add new Users to Group. 
     - Change pssword new user.       
 - Create Virtual Network (Classic).
 - Create AAD Domain Services.
