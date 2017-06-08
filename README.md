@@ -44,5 +44,6 @@ Step 16. Create VM for Development.
 
 
 [Step01.md]
-
+![GitHub Logo](/Step01.md)
+![GitHub Logo](Step01.md)
 [![](https://github.com/dev-petervanhemert/OTAP-on-Azure-Guide/blob/master/Step01.md)]
