@@ -95,3 +95,8 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 > <img src="/Images/03-CreateGroup/04-CreateGroup.png" width="400"/> 
 6. In the Add Group dialog box, create a group named AAD DC Administrators, and then set Group Type to Security.
 > <img src="/Images/03-CreateGroup/02-CreateGroup.png" width="400"/> 
+
+        Warning
+
+        To enable access within your Azure Active Directory Domain Services-managed domain, create a group with this exact name.
+        
