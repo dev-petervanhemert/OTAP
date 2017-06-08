@@ -1,5 +1,5 @@
 
-## Create an Azure virtual network
+## Create an Azure virtual network (Classic)
 
 1. Go to the Azure classic portal.
 2. In the left pane, select Networks.
