@@ -30,7 +30,7 @@
         -Install Visual Studio 2017.
 
 
-##Create an Azure Active Directory tenant.
+## Create an Azure Active Directory tenant.
 
 1. Navigate to https://manage.windowsazure.com and log in with the account that has an Azure subscription.
 2. Click ACTIVE DIRECTORY management icon in the left pane.
@@ -41,7 +41,7 @@
 > <img src="/Images/01-CreateAD/03-CreateAD.PNG" width="600"/> 
 6. Choose OK icon. An Azure Active Directory is created.
 
-##Add a user to your Azure Active Directory tenant
+## Add a user to your Azure Active Directory tenant
 
 You need a user from your Azure AD to register an Azure AD app. Here's how to add a user to your Azure Active Directory tenant:
 1. In your Azure Active Directory, click USERS.
