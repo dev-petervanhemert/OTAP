@@ -37,7 +37,8 @@
 3. Click NEW button at the bottom of the page.
 4. Choose APP SERVICES > ACTIVE DIRECTORY > DIRECTORY > CUSTOM CREATE.
 
-      Create an Account.
 > <img src="/Images/01-CreateAD/02-CreateAD.PNG" width="600"/> 
 
 5. In the Add directory page, enter a name and domain name. For country or region choose United States or the country were Data Catalog is available.
+
+> <img src="/Images/01-CreateAD/03-CreateAD.PNG" width="600"/> 
