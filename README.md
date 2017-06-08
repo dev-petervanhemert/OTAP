@@ -12,7 +12,12 @@ Step 5. Create AAD Domain Services.
 
 Step 6. Update the DNS settings for the classic Azure virtual network
 
-Step 10. Create Virtual Network (Resource Management).
+
+
+
+
+
+Step 7. Create Virtual Network (Resource Management) and peering.
 
 Step 8. Update the DNS settings for the resource manager Azure virtual network
 
