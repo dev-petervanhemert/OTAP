@@ -115,10 +115,20 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 > <img src="/Images/03-CreateGroup/02-AddGroupMember.png" width="600"/> 
 
 ## Create an Azure virtual network
+
+1. Go to the Azure classic portal.
+2. In the left pane, select Networks.
+3. In the task pane at the bottom of the window, click New.
 > <img src="/Images/04-CreateVnet/01-CreateClassicNetwork.png" width="200"/> 
-
+4. Click Network Services, and then select Virtual Network.
 > <img src="/Images/04-CreateVnet/02-CreateClassicNetwork.png" width="400"/> 
-
+5. To create a virtual network, click Quick Create.
+6. Specify a Name for your virtual network, and consider doing the following:
+    - You can choose to configure Address space or Maximum VM count for this network.
+    - You can leave the DNS server setting as None for now. You can update the setting after you enable Azure Active Directory Domain           Services.
+7. In the Location drop-down list, select a supported Azure region.
+To ascertain the Azure regions in which Azure Active Directory Domain Services is available, see Azure services by region.
+8. To create your virtual network, click Create a Virtual Network.
 > <img src="/Images/04-CreateVnet/03-CreateClassicNetwork.png" width="400"/> 
 
 > <img src="/Images/04-CreateVnet/04-CreateClassicNetwork.png" width="400"/> 
