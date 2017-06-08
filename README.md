@@ -104,4 +104,6 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 7. In the Description box, enter a description that enables others to understand that this group grants administrative permissions within Azure Active Directory Domain Services.
 8. After you've created the group, click the group name to view its properties.
 9. To add users as members of the group, at the bottom of the window, click the Add Members button.
-> <img src="/Images/03-CreateGroup/03-AddGroupMember.png" width="400"/> 
+> <img src="/Images/03-CreateGroup/03-AddGroupMember.png" width="600"/> 
+10. In the Add members dialog box, select the users who should be members of this group, and then click the checkmark icon at the lower right.
+> <img src="/Images/03-CreateGroup/02-AddGroupMember.png" width="600"/> 
