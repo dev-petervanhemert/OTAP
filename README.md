@@ -3,11 +3,6 @@
 Step 1. Create or config Azure Active Directory.
 
 Step 2. Create new Users.
-
-    - tfsServices user
-    - tfsBuild user
-    - tfsReport user
-    - tfsDeveloper users
     
 Step 4. Add goup AAD DC Administrators.
     
@@ -59,6 +54,10 @@ Step 16. Create VM for Development.
 6. Choose OK icon. An Azure Active Directory is created.
 
 ## Add a user to your Azure Active Directory tenant
+
+        NB. You need for TFS 2017 multiply users.
+        Name these users:
+        tfsServices, tfsBuild, tfsReport
 
 You need a user from your Azure AD to register an Azure AD app. Here's how to add a user to your Azure Active Directory tenant:
 1. In your Azure Active Directory, click USERS.
