@@ -8,31 +8,38 @@ Step 2. Create new Users.
     - tfsBuild user
     - tfsReport user
     - tfsDeveloper users
-    - Add goup AAD DC Administrators.
     
-Step 3. Change pssword new users. 
+Step 4. Add goup AAD DC Administrators.
+    
+Step 5. Change pssword new users. 
 
-Step 4. Add Users to Group. 
+Step 6. Add Users to Group. 
           
-Step 5. Create Virtual Network (Classic).
+Step 7. Create Virtual Network (Classic).
 
-- Create AAD Domain Services.
-- Add DNS server from Domain Service to the classic Network.
-- Create Virtual Network (Resource Management).
-    - Add DNS server (ip from AAD Domain Services)
-- Peer the vNets.
+Step 8. Create AAD Domain Services.
+Step 9. Add DNS server from Domain Service to the classic Network.
+Step 10. Create Virtual Network (Resource Management).
+Step 11. Add DNS server (ip from AAD Domain Services)
+Step 12. Peer the vNets.
 
-- Prerequisites for VM.
+Step 13. Prerequisites for VM.
+
     - Create NSG.
     - Create Storage Account.
     - Create Availebility Set.
-- Create VM for Team Foundation Services 2017.
+    
+Step 14. Create VM for Team Foundation Services 2017.
+
     - Connect to domain AD
     - Install TFS 2017 on VM.
-- Create VM for SonarQube.
+    
+Step 15. Create VM for SonarQube.
+
     - Connect to domain AD
     - Install SonarQUbe.
-- Create VM for Development.
+    
+Step 16. Create VM for Development.
         -Install Visual Studio 2017.
 
 
