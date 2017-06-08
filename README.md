@@ -98,5 +98,10 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 
         Warning
 
-        To enable access within your Azure Active Directory Domain Services-managed domain, create a group with this exact name.
-        
+        To enable access within your Azure Active Directory Domain Services-managed domain, 
+        create a group with this exact name.
+
+7. In the Description box, enter a description that enables others to understand that this group grants administrative permissions within Azure Active Directory Domain Services.
+8. After you've created the group, click the group name to view its properties.
+9. To add users as members of the group, at the bottom of the window, click the Add Members button.
+> <img src="/Images/03-CreateGroup/03-AddGroupMember.png" width="400"/> 
