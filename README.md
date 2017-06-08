@@ -73,3 +73,11 @@ You need a user from your Azure AD to register an Azure AD app. Here's how to ad
     c. Click Next.
     
 > <img src="/Images/02-Add Users/02-AddUser.png" width="400"/> 
+4. In the user profile page, enter your DISPLAY NAME. Display name is a required field.
+> <img src="/Images/02-Add Users/04-AddUser.png" width="400"/> 
+5. Click Next. For ROLE, you can use User.
+6. Click Create to create a temporary password. The new user is assigned a temporary password that must be changed on first sign in.
+> <img src="/Images/02-Add Users/05-AddUser.png" width="400"/> 
+7. In the Get temporary password page, copy the temporary password, and click Complete icon. You use the temporary password when you first login to your AAD.
+> <img src="/Images/02-Add Users/06-AddUser.png" width="400"/> 
+After you click the Complete icon, a new Azure AD user is created.
