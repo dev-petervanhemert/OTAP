@@ -115,4 +115,12 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 > <img src="/Images/03-CreateGroup/02-AddGroupMember.png" width="600"/> 
 
 ## Create an Azure virtual network
-> <img src="/Images/04-CreateVnet/01-CreateClassicNetwork.png" width="600"/> 
+> <img src="/Images/04-CreateVnet/01-CreateClassicNetwork.png" width="200"/> 
+
+> <img src="/Images/04-CreateVnet/02-CreateClassicNetwork.png" width="400"/> 
+
+> <img src="/Images/04-CreateVnet/03-CreateClassicNetwork.png" width="400"/> 
+
+> <img src="/Images/04-CreateVnet/04-CreateClassicNetwork.png" width="400"/> 
+
+> <img src="/Images/04-CreateVnet/05-CreateClassicNetwork.png" width="400"/> 
