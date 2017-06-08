@@ -1,14 +1,15 @@
 # OTAP-on-Azure-Guide
 
 - Create or config Azure Active Directory.
+- Create new Users.
+    - tfsServices user
+    - tfsBuild user
+    - tfsReport user
+    - tfsDeveloper users
     - Add goup AAD DC Administrators.
-    - Create new Users.
-        - tfsServices user
-        - tfsBuild user
-        - tfsReport user
-        - tfsDeveloper users
-    - Add new Users to Group. 
-    - Change pssword new user.       
+- Change pssword new users. 
+- Add Users to Group. 
+          
 - Create Virtual Network (Classic).
 - Create AAD Domain Services.
 - Add DNS server from Domain Service to the classic Network.
