@@ -81,6 +81,12 @@ You need a user from your Azure AD to register an Azure AD app. Here's how to ad
 > <img src="/Images/02-Add Users/06-AddUser.png" width="400"/> 
 After you click the Complete icon, a new Azure AD user is created.
 
+Change temporary password.
+1. Login into the azure portal with the temporary password
+> <img src="/Images/02-Add Users/01-ChangePassword.png" width="400"/> 
+2. Change the password
+> <img src="/Images/02-Add Users/02-ChangePassword.png" width="400"/>
+
 To complete the next step the new AAD user will need access to an Azure Subscription. You can either make the new user a co-admin on the existing subscription or you can create a new subscription for the new AAD user.
 
 ## Create the Azure AD DC administrators group
