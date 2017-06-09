@@ -12,9 +12,9 @@
 Setting |	Value | Details
 ------- | ----- | -------  
 **Name**	| VNet_Main_RM |	The name must be unique within the resource group.
-**Address** | space	10.0.0.0/16 |	You can specify any address space you like in CIDR notation.
+**Address** | space	10.1.0.0/16 |	You can specify any address space you like in CIDR notation.
 **Subnet name** |	subnet_TFS |	The subnet name must be unique within the virtual network.
-**Subnet address range** |	10.0.0.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
+**Subnet address range** |	10.1.0.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
 **Subscription** |	[Your subscription] |	Select a subscription to create the VNet in. A VNet exists within a single subscription.
 **Resource group** |	Create new: "vNETsRM"	Create a resource group. | The resource group name must be unique within the subscription you selected. To learn more about resource groups, read the Resource Manager overview article.
 **Location** |	West Europe |	Typically the location that is closest to your physical location is selected.
@@ -34,8 +34,8 @@ In the VNet_Main_RM - Subnets blade, click + Subnet to create a subnet with the 
 Setting | Value | Details
 ------- | ----- | -------
 Name |	subnet_SonarQube |	The name must be unique within the virtual network.
-Address range |	10.0.1.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
+Address range |	10.1.1.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
 Network security group and Route table |	None (default) |	Network security groups (NSG)s are covered later.
 
-If you create a Developer machine you need to add a third subnet named "subnet_DEV" and address range 10.0.2.0/24
+If you create a Developer machine you need to add a third subnet named "subnet_DEV" and address range 10.1.2.0/24
 
