@@ -9,8 +9,13 @@
 4. In the Virtual network blade, leave Resource Manager selected as the deployment model, and click Create.
 5. In the Create virtual network blade that appears, enter the following values, then click Create:
 
-Setting |	Value| Details
--------   -----  -------  
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+Setting |	Value | Details
+------- | ----- | -------  
 **Name**	| MyVNet |	The name must be unique within the resource group.
 **Address** | space	10.0.0.0/16 |	You can specify any address space you like in CIDR notation.
 **Subnet name** |	Front-end |	The subnet name must be unique within the virtual network.
