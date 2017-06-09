@@ -30,7 +30,8 @@ Setting |	Value | Details
 
 9. Click Subnets to display a list of the subnets within the VNet. The only subnet that exists is subnet_TFS, the subnet you created in step 5.
 In the VNet_Main_RM - Subnets blade, click + Subnet to create a subnet with the following information and click OK to create the subnet:
-Setting |	Value |	Details
+
+Setting | Value | Details
 ------- | ----- | -------
 Name |	subnet_SonarQube |	The name must be unique within the virtual network.
 Address range |	10.0.1.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
