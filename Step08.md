@@ -15,7 +15,7 @@
 > <img src="/Images/08-SNG/02-CreateNSG.png" width="600"/> 
 3. In the list of Inbound security rules, click Add.
 4. In the Add inbound security rule blade, create a rule:
-> <img src="/Images/08-SNG/03-CreateNSG.png" width="600"/> 
+> <img src="/Images/08-SNG/04-CreateNSG.png" width="600"/> 
 Name: Allow_RDP_In 
 - Priority:  100 
 - Source: Any
@@ -25,6 +25,6 @@ Name: Allow_RDP_In
 - Action: Allow
 
 5. Click OK.
-6. Repeate for al the rules in the image.
-> <img src="/Images/08-SNG/04-CreateNSG.png" width="600"/> 
+6. Repeate for al the NSGs and rules like in the image.
+> <img src="/Images/08-SNG/03-CreateNSG.png" width="600"/> 
 
