@@ -1,4 +1,4 @@
-# Create Virtual Network (Resource Management) DNS and peering
+# Create Virtual Network (Resource Management) DNS and peering to vNet Classic
 
 
 1. Log in to the Azure portal.
