@@ -37,6 +37,5 @@ Name |	subnet_SonarQube |	The name must be unique within the virtual network.
 Address range |	10.0.1.0/24 |	The range you specify must exist within the address space you defined for the virtual network.
 Network security group and Route table |	None (default) |	Network security groups (NSG)s are covered later.
 
-If you will create a Developer machine you need to add a third subnet named "subnet_DEV" and address range 10.0.2.0/24
+If you create a Developer machine you need to add a third subnet named "subnet_DEV" and address range 10.0.2.0/24
 
-10. After the new subnet is added to the VNet, you can close the MyVNet – Subnets blade, then close the All resources blade.
