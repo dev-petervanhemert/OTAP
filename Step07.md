@@ -1,4 +1,4 @@
-
+* Create Virtual Network (Resource Management) DNS and peering
 
 
 1. Log in to the Azure portal.
@@ -39,3 +39,19 @@ Network security group and Route table |	None (default) |	Network security group
 
 If you create a Developer machine you need to add a third subnet named "subnet_DEV" and address range 10.1.2.0/24
 
+** Create a virtual network peering
+
+1. Click VNet_Main_RM.
+2. In the VNet_Main_RM blade that appears, click Peerings from the vertical list of options on the left side of the blade.
+> <img src="/Images/07-vNetRM/01-peering.png" width="600"/>
+3. In the VNet_Main_RM - Peerings blade that appeared, click + Add
+4. In the Add peering blade that appears, enter, or select the following options, then click OK:
+- Name: PeeringVnet_RM_with_CL
+- Virtual network deployment model: Select Classic.
+- Subscription: Select your subscription
+- Virtual network: Click Choose a virtual network, then click vNet_Main_CL.
+- Allow virtual network access: Enabled
+> <img src="/Images/07-vNetRM/02-peering.png" width="600"/>
+
+A few seconds after clicking OK to create the peering, the PeeringVnet_RM_with_CL peering you just created is listed with Connected in the PEERING STATUS column.
+> <img src="/Images/07-vNetRM/04-peering.png" width="600"/>
