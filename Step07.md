@@ -4,7 +4,7 @@
 1. Log in to the Azure portal.
 2. In the Favorites pane, of the portal, click New.
 3. In the New blade, click Networking. In the Networking blade, click Virtual network, as shown in the following picture:
-> <img src="/Images/07-vNetRM/011-Create_vNetRM.png" width="600"/> 
+> <img src="/Images/07-vNetRM/011-Create_vNetRM.png" width="400"/> 
 
 4. In the Virtual network blade, leave Resource Manager selected as the deployment model, and click Create.
 5. In the Create virtual network blade that appears, enter the following values, then click Create:
@@ -25,7 +25,7 @@ Setting |	Value | Details
 
 6. With the virtual network created, in the Azure portal Favorites pane, click All resources. Click the VNet_Main_RM virtual network in the All resources blade. If the subscription you selected already has several resources in it, you can enter VNet_Main_RM in the Filter by name… box to easily access the VNet.
 7. The VNet_Main_RM blade opens and displays information about the VNet, as shown in the following picture:
-> <img src="/Images/07-vNetRM/04-Create_vNetRM.png" width="400"/>
+> <img src="/Images/07-vNetRM/04-Create_vNetRM.png" width="600"/>
 8. Select DNS servers and enter the DNS from the AAD Domain Services.
 
 9. Click Subnets to display a list of the subnets within the VNet. The only subnet that exists is subnet_TFS, the subnet you created in step 5.
