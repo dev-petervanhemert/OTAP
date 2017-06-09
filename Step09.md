@@ -14,5 +14,6 @@
 - Select the subscription in which you want to create the new storage account.
 - Specify a new resource group or select an existing resource group. 
 - Select the geographic location for your storage account: West Europe.
+
 Click Create.
 
