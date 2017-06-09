@@ -14,12 +14,20 @@ Step 6. Update the DNS settings for the classic Azure virtual network.
 
 Step 7. Create Virtual Network (Resource Management) DNS and peering.
 
-Step 8. Create network security groups using the Azure portal
+Step 8. Create network security groups using the Azure portal.
 
-Step 13. Prerequisites for VM.
+Step 9. Create Storage Account.
 
-    - Create NSG.
-    - Create Storage Account.
+Step 10. Create VM Windows Server.
+
+Step 11. Install TFS 2017 on VM-TFS.
+
+Step 12. Install SonarQube on VM-Sonar.
+
+Step 13. Install Visual Studio 2017 on VM-DEV.
+    
+    
+    
     
 Step 14. Create VM for Team Foundation Services 2017.
 
