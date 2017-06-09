@@ -14,6 +14,8 @@ Step 6. Update the DNS settings for the classic Azure virtual network.
 
 Step 7. Create Virtual Network (Resource Management) DNS and peering.
 
+Step 8. Create network security groups using the Azure portal
+
 Step 13. Prerequisites for VM.
 
     - Create NSG.
