@@ -10,24 +10,14 @@ Step 4. Create an Azure virtual network (Classic).
 
 Step 5. Create AAD Domain Services.
 
-Step 6. Update the DNS settings for the classic Azure virtual network
-
-
-
-
-
+Step 6. Update the DNS settings for the classic Azure virtual network.
 
 Step 7. Create Virtual Network (Resource Management) and peering.
-
-Step 8. Update the DNS settings for the resource manager Azure virtual network
-
-Step 12. Peer the vNets.
 
 Step 13. Prerequisites for VM.
 
     - Create NSG.
     - Create Storage Account.
-    - Create Availebility Set.
     
 Step 14. Create VM for Team Foundation Services 2017.
 
