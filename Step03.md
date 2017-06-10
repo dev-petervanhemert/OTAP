@@ -2,7 +2,7 @@
 
 1. Go to the Azure classic portal( https://manage.windowsazure.com/ ).
 2. In the left pane, select the Active Directory button.
-3. Select the Azure AD tenant (directory) for which you want to enable Azure Active Directory Domain Services. You can create only one domain for each Azure AD directory.
+3. Select the Azure AD tenant (directory).
 > <img src="/Images/03-CreateGroup/00-CreateGroup.png" width="400"/> 
 4. On the preview directory page, click the Groups tab.
 > <img src="/Images/03-CreateGroup/01-CreateGroup.png" width="400"/> 
