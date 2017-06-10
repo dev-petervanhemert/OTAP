@@ -26,3 +26,19 @@ click OK.
 6. On the summary page, click Ok to start the virtual machine deployment.
 
       The VM will be pinned to the Azure portal dashboard. Once the deployment has completed, the VM summary blade automatically opens.
+
+### Connect to the virtual machine
+
+
+1. Click the Connect button on the virtual machine properties. A Remote Desktop Protocol file (.rdp file) is created and downloaded.
+
+> <img src="/Images/10-VM.md/04-VM.PNG" width="600"/> 
+
+2. To connect to your VM, open the downloaded RDP file. If prompted, click Connect. On a Mac, you need an RDP client such as this Remote Desktop Client from the Mac App Store.
+
+3. Enter the user name and password you specified when creating the virtual machine, then click Ok.
+
+          You may receive a certificate warning during the sign-in process. Click Yes or Continue to proceed with the connection.
+          
+4. Run Windows Update to patch this server.
+
