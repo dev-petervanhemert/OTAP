@@ -42,3 +42,11 @@ click OK.
           
 4. Run Windows Update to patch this server.
 
+You should now be at the Start menu.  
+•
+In the search box, type 
+Check for updates
+•
+Click 
+Check for updates
+ in the search results
