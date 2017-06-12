@@ -1,4 +1,4 @@
-# Create virtual machine
+# Create virtual machine in Azure
 
 1. Sign in to the Azure portal.
 2. Select Compute, select Windows Server 2016 Datacenter, and ensure that Resource Manager is the selected deployment model. Click the Create button.
