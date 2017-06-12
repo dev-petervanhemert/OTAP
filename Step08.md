@@ -28,3 +28,4 @@ Name: Allow_RDP_In
 6. Repeate for al the NSGs and rules like in the image.
 > <img src="/Images/08-SNG/03-CreateNSG.png" width="600"/> 
 
+### [NEXT Step 9. Create Storage Account.](Step09.md)
