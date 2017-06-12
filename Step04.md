@@ -20,3 +20,5 @@ To ascertain the Azure regions in which Azure Active Directory Domain Services i
 10. Under virtual network address spaces, click add subnet, and then specify a subnet with the name AaddsSubnet.
 > <img src="/Images/04-CreateVnet/05-CreateClassicNetwork.png" width="600"/> 
 11. To create the subnet, click Save.
+
+### [NEXT Step 5. Create AAD Domain Services.](Step05.md)
