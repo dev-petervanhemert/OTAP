@@ -72,6 +72,7 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 > <img src="/Images/11-TFS.md/08-TFS.png" width="600"/> 
 
 - Under Instance Features check.
+
         - Database Engine Services.
         - Full-text and Semantic Extractions for Search.
         - Analysis Services.
