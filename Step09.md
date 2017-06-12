@@ -18,4 +18,4 @@
 Click Create.
 
 
-### [NEXT](Step10) 
+### [NEXT Step 10. Create VM Windows Server.](Step10) 
