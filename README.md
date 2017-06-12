@@ -1,7 +1,7 @@
 # OTAP-on-Azure-Guide
 
 
-[Step 1. Create or config Azure Active Directory.](../blob/master/LICENSE)
+[Step 1. Create or config Azure Active Directory.](Step01.md)
 
 
 
