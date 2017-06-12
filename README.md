@@ -1,6 +1,9 @@
 # OTAP-on-Azure-Guide
 
-Step 1. Create or config Azure Active Directory.
+
+[Step 1. Create or config Azure Active Directory.](../blob/master/LICENSE)
+
+
 
 Step 2. Add a user to your Azure Active Directory tenant.
     
@@ -47,3 +50,7 @@ Step 16. Create VM for Development.
 ![GitHub Logo](/Step01.md)
 ![GitHub Logo](Step01.md)
 [![](https://github.com/dev-petervanhemert/OTAP-on-Azure-Guide/blob/master/Step01.md)]
+
+
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
