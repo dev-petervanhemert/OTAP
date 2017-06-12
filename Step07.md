@@ -56,3 +56,6 @@ If you create a Developer machine you need to add a third subnet named "subnet_D
 
 A few seconds after clicking OK to create the peering, the PeeringVnet_RM_with_CL peering you just created is listed with Connected in the PEERING STATUS column.
 > <img src="/Images/07-vNetRM/04-peering.png" width="600"/>
+
+
+### [NEXT Step 8. Create network security groups using the Azure portal.](Step08.md)
