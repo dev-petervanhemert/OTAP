@@ -1,9 +1,7 @@
 # OTAP-on-Azure-Guide
-
+### [START GUIDE](Step01.md)
 
 [Step 1. Create or config Azure Active Directory.](Step01.md)
-
-
 
 [Step 2. Add a user to your Azure Active Directory tenant.](Step02.md)
     
