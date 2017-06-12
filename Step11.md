@@ -18,7 +18,7 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 
         First we need to verify that the .NET Framework 3.5 features are installed on this server.
 
-> <img src="/Images/11-TFS.md/01-TFS.png" width="200"/> 
+> <img src="/Images/11-TFS/01-TFS.png" width="200"/> 
 - In Server Manager, click **Add roles and features**
 - On the **Before you begin** page of the wizard, click **Next**
 - On the **Select installation type** page, choose **Role-based or feature-based installation** and click **Next**
