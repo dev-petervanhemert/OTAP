@@ -76,16 +76,46 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 - [x] Database Engine Services
 - [x] Full-text and Semantic Extractions for Search
 - [x] Analysis Services
-- [x] ReportingServices–Native
+- [x] Reporting Services–Native
         
 - Click **Next**
 
+> <img src="/Images/11-TFS.md/09-TFS.png" width="400"/> 
+- Choose **Default instance** 
+- Click **Next**
 
+> <img src="/Images/11-TFS.md/10-TFS.png" width="600"/> 
+- For each service, set **Startup Type** to **Automatic**
+- Click **Next**
 
+> <img src="/Images/11-TFS.md/11-TFS.png" width="600"/> 
+- Choose **Windows authentication mode**
+- Click the **Add Current User** button to add the current user as a SQL Server administrator
+- (Optional) Click the **Add**... button and add the **Domain Admins** group to the SQL Server
+administrators
+- Click **Next**
 
+> <img src="/Images/11-TFS.md/12-TFS.png" width="600"/> 
+- Click the **Add Current User** button to add the current user as an Analysis Server administrator
+- (Optional) Click the **Add...** button and add the **Domain Admins** group to the Analysis Services administrators
+- Click **Next**
 
+- Choose **Install and configure** 
+- Click **Next**
+- Click Install
 
+The installer should now be running.
+> <img src="/Images/11-TFS.md/13-TFS.png" width="600"/> 
+Eventually, the installer should finish.
+> <img src="/Images/11-TFS.md/14-TFS.png" width="600"/> 
+- Verify that all items installed successfully 
+- Click **Close** to exit the installer
+You should now be back on the SQL Server Installation Center.
+- (Optional) Install **SQL Server Management** Tools
+- Or click the close button to exit the installer
 
+                SQL Server 2016 is now installed.
+                (Recommended) Re-run Windows Update and install any available updates
 
 ---
 >
