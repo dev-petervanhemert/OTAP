@@ -80,7 +80,7 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
         
 - Click **Next**
 
-
+- [x] this is a complete item
 
 
 
