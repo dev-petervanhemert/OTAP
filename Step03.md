@@ -23,4 +23,4 @@
 10. In the Add members dialog box, select the users who should be members of this group, and then click the checkmark icon at the lower right.
 > <img src="/Images/03-CreateGroup/02-AddGroupMember.png" width="600"/> 
 
-### [Step 4. Create an Azure virtual network (Classic).](Step05.md)
+### [NEXT Step 4. Create an Azure virtual network (Classic).](Step04.md)
