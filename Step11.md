@@ -130,7 +130,7 @@ You should now be back on the SQL Server Installation Center.
 
 ---
 >
-> ### **STEP 3**
+> ### **STEP 4**
 
 ## Create a TFS Build / Release Server on Windows
 
