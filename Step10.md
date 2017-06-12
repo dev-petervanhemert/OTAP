@@ -38,8 +38,13 @@ click OK.
 
 3. Enter the user name and password you specified when creating the virtual machine, then click Ok.
 
-          You may receive a certificate warning during the sign-in process. Click Yes or Continue to proceed with the connection.
-          
+          You may receive a certificate warning during the sign-in process. 
+          Click Yes or Continue to proceed with the connection.
+ 
+
+            You should now be logged in and you should see the server manager dashboard. 
+            The next step is to run Windows Update to patch this server.
+
 4. Run Windows Update to patch this server.
 
 You should now be at the Start menu.  
