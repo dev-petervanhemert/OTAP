@@ -29,7 +29,7 @@
 
     
 
-[Step 14. Create VM for Team Foundation Services 2017.](../../../TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
+[Step 14. Create VM for Team Foundation Services 2017.](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
 
 
     - Connect to domain AD
