@@ -19,3 +19,5 @@
      This command forces a refresh of the DNS settings on the virtual machine.
 
 NEXT STEP: Create Resource Manager Virtual Network.
+
+### [NEXT Step 7. Create Virtual Network (Resource Management) DNS and peering.](Step07.md)
