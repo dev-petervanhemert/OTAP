@@ -21,7 +21,7 @@
 - Diagnostics storage account: Select the before created storage account
 
 click OK.
-> <img src="/Images/10-VM.md/03-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/03-VM.PNG" width="400"/> 
 
 6. On the summary page, click Ok to start the virtual machine deployment.
 
