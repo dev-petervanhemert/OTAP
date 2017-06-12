@@ -53,6 +53,33 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 
 ## Install SQL Server 2016
 
+- Run the SQL Server setup program
+- Click **Yes** on any User Account Control dialogs that appear
+- In the left panel, click **Installation**
+- In the right panel, click **New SQL Server stand-alone installation or add features to an existing installation**
+- Enter a product key 
+- Click **Next**
+- Check **I accept the license terms** 
+- Click **Next**
+- Check **Include SQL Server product updates** 
+- Click **Next**
+
+                Verify that none of the install rule checks have failed.
+                
+> <img src="/Images/11-TFS.md/07-TFS.png" width="400"/> 
+- Verify that there are 0 failures 
+- Click **Next**
+> <img src="/Images/11-TFS.md/08-TFS.png" width="600"/> 
+
+-Under **Instance Features** check
+        - **Database Engine Services**
+        - **Full-text and Semantic Extractions for Search **
+        - **Analysis Services**
+        - **ReportingServices–Native**
+- Click **Next**
+
+
+
 
 
 
