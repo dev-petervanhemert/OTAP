@@ -4,6 +4,7 @@
 >
 >
 > ### **STEP 1**
+
 ## Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
 
 Before you can install SQL Server or Team Foundation Server, you’ll need to enable their pre- requisite roles and features in Windows Server.
@@ -43,6 +44,7 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 >
 ---
 >
+> ### **STEP 2**
 
-## STEP 2 Install SQL Server 2016
+## Install SQL Server 2016
 
