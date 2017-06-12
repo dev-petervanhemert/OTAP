@@ -52,4 +52,4 @@ Additional Azure Active Directory Domain Services configuration options appear o
 
 >> NEXT STEP: Update the DNS settings for the Azure virtual network
 
-### [NEXT 
+### [NEXT Step 6. Update the DNS settings for the classic Azure virtual network.](Step06.md)
