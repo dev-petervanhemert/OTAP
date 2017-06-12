@@ -21,7 +21,7 @@
 
 [Step 10. Create VM Windows Server.](Step10.md)
 
-[Step 11. Install TFS 2017 on VM-TFS.](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
+[Step 11. Install TFS 2017 on VM-TFS.](Step11.md)
 
 [Step 12. Install SonarQube on VM-Sonar.](Step12.md)
 
