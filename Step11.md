@@ -1,9 +1,10 @@
 # Install Team Foundation Server 2017 on Azure
->
->
->
-### Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
 ---
+>
+>
+>
+## Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
+
 Before you can install SQL Server or Team Foundation Server, you’ll need to enable their pre- requisite roles and features in Windows Server.
 - Log on to the server using an account that is a member of the Administrators group
 - Run Server Manager
