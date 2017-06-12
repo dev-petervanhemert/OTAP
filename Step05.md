@@ -51,3 +51,5 @@ Additional Azure Active Directory Domain Services configuration options appear o
     Depending on the size of your Azure AD tenant (for example, the number of users or groups), synchronization to your managed domain takes a while. This synchronization process happens in the background. For large tenants with tens of thousands of objects, it might take a day or two for all users, group memberships, and credentials to be synchronized.
 
 >> NEXT STEP: Update the DNS settings for the Azure virtual network
+
+### [NEXT 
