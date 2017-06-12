@@ -18,4 +18,4 @@
 
 ### [NEXT Step 2. Add a user to your Azure Active Directory tenant.](Step02.md)
 
-> ### [Back to Menu](README.md)
+>>> ### [Back to Menu](README.md)
