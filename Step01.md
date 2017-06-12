@@ -10,3 +10,7 @@
 5. In the Add directory page, enter a name and domain name. For country or region choose United States or the country were Data Catalog is available.
 > <img src="/Images/01-CreateAD/03-CreateAD.PNG" width="400"/> 
 6. Choose OK icon. An Azure Active Directory is created.
+
+
+
+### [NEXT Step 2. Add a user to your Azure Active Directory tenant.](Step02.md)
