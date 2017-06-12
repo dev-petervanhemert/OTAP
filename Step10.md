@@ -51,4 +51,4 @@ Click
 Check for updates
  in the search results
 
-[NEXT Step ](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
+[NEXT Step 11 Install TFS 2017 ](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
