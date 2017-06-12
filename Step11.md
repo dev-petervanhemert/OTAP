@@ -48,3 +48,26 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 
 ## Install SQL Server 2016
 
+
+
+
+
+
+---
+>
+> ### **STEP 3**
+
+## Install Team Foundation Server 2017
+
+
+
+
+
+
+---
+>
+> ### **STEP 3**
+
+## Create a TFS Build / Release Server on Windows
+
+
