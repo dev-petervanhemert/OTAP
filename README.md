@@ -30,12 +30,12 @@
     
     dev-petervanhemert/TFS-2017-Installation-Guide
     
-[Step 14. Create VM for Team Foundation Services 2017.](../blob/master/TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
+[Step 14. Create VM for Team Foundation Services 2017.](.../TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
 
 
-[Step 14. Create VM for Team Foundation Services 2017.](../blob/master/dev-petervanhemert/TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
+[Step 14. Create VM for Team Foundation Services 2017.](..../dev-petervanhemert/TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
 
-[Step 14. Create VM for Team Foundation Services 2017.](../master/dev-petervanhemert/TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
+[Step 14. Create VM for Team Foundation Services 2017.](../../../dev-petervanhemert/TFS-2017-Installation-Guide/TFS2017-install-guide.pdf)
 
 
     - Connect to domain AD
