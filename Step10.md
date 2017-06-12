@@ -47,20 +47,20 @@ click OK.
 4. Update the Server
 - Click the Windows button in the bottom left of the screen to navigate to the Start screen.
 
-> <img src="/Images/10-VM.md/05-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/05-VM.png" width="600"/> 
 
 - In the search box, type Check for updates and Click Check for updates in the search results.
-> <img src="/Images/10-VM.md/06-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/06-VM.png" width="600"/> 
 - Ones updated, Click the **Advanced options** link
-> <img src="/Images/10-VM.md/07-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/07-VM.png" width="600"/> 
 - Check Give me updates for other Microsoft products when I update Windows and **Check for updates** again.
-> <img src="/Images/10-VM.md/08-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/08-VM.png" width="600"/> 
 
 5. (Optional) Turn off IE Enhanced Security Configuration.
-> <img src="/Images/10-VM.md/09-VM.PNG" width="600"/> 
-> <img src="/Images/10-VM.md/10-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/09-VM.png" width="600"/> 
+> <img src="/Images/10-VM.md/10-VM.png" width="600"/> 
 - Click the link that says On.
-> <img src="/Images/10-VM.md/11-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/11-VM.png" width="600"/> 
 - Under Administrators, select the Off radio button 
 - (Optional) Under Users, select the Off radio button 
 - Click the OK button and refresh.
@@ -68,21 +68,21 @@ click OK.
             IE Enhanced Security Configuration should now be set to Off.
 
 6. Join this Server to the Active Directory Domain.
-> <img src="/Images/10-VM.md/12-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/12-VM.png" width="600"/> 
 - Click on the computer name link
-> <img src="/Images/10-VM.md/13-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/13-VM.png" width="600"/> 
 - Click the Change... button
 
-> <img src="/Images/10-VM.md/14-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/14-VM.png" width="600"/> 
 
 - In the Computer name textbox, enter the desired name for this server 
 - Under Member of choose the Domain radio button
 - In the Domain textbox, enter the name of the Active Directory domain 
 - Click the OK button
-> <img src="/Images/10-VM.md/15-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/15-VM.png" width="600"/> 
 - Enter the username and password
 - Click OK
-> <img src="/Images/10-VM.md/16-VM.PNG" width="600"/> 
+> <img src="/Images/10-VM.md/16-VM.png" width="600"/> 
 
             You’ll be notified that you’ll need to reboot this server.
 
