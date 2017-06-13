@@ -1,6 +1,6 @@
 # Install Team Foundation Server 2017 on Azure
 
-- Step 1 - Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
+- ### **Index**
 
 - [Step 1 - Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017](#step-1)
 
@@ -10,14 +10,12 @@
 
 - [Step 4 - Create a TFS Build / Release Server on Windows](#step-4)
 
-- Step 2 - Install SQL Server 2016
-- Step 3 - Install Team Foundation Server 2017
-- Step 4 - Create a TFS Build / Release Server on Windows
-
 ---
 >
 >
 > ### **STEP 1**
+
+[UP to Index](#index)
 
 ## Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
 
@@ -59,6 +57,8 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 ---
 >
 > ### **STEP 2**
+
+[UP to Index](#index)
 
 ## Install SQL Server 2016
 
