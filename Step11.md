@@ -268,12 +268,41 @@ The configuration process should now be running and end with a message saying Su
 
 ## Create a TFS Build / Release Server on Windows
 
+The build agent and the release agent are the same installer and process in TFS2017 and a single installation of this agent will allow you to do “build” activities and also “release” activities.
 
 
+### **Download the Agent Installer**
+
+- Log in to the build server machine
+- Open a web browser
+- Navigate to your TFS web interface. By default this is http://servername:8080/tfs.
 
 
+> <img src="/Images/11-TFS/31-TFS.png" width="400"/>
+
+- Click the **gear icon** to bring up the **Settings menu**
+- Choose **Agent Pools**
+
+> <img src="/Images/11-TFS/32-TFS.png" width="400"/>
+- Click the **Download agent** button
+
+> <img src="/Images/11-TFS/33-TFS.png" width="400"/>
+- Make sure the **Windows tab** is selected
+- Click the **Download** button
 
 
+### **Extract the Agent**
 
+We’ll do the actual installation using PowerShell. This is actually done in two parts. 
+- Part 1: Extract the agent bits from the ZIP. 
+- Part 2: Configure the Agent.
+
+#### Run PowerShell.
+- Press the Windows key on your keyboard to bring up the search menu and type PowerShell
+- From the search results, right-click Windows PowerShell
+- From the context menu for PowerShell, choose Run as administrator
+
+                PS C:\> mkdir agent ; cd agent
+                PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;                                          [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
 
 
