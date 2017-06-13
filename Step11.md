@@ -293,18 +293,36 @@ The build agent and the release agent are the same installer and process in TFS2
 
 ### **Extract the Agent**
 
-We’ll do the actual installation using PowerShell. This is actually done in two parts. 
-- Part 1: Extract the agent bits from the ZIP. 
+We’ll do the actual installation using PowerShell.
+- Part 1: Create the agent. 
 - Part 2: Configure the Agent.
+- Part 3: Optionally run the agent interactively
 
 #### Run PowerShell.
 - Press the Windows key on your keyboard to bring up the search menu and type PowerShell
 - From the search results, right-click Windows PowerShell
 - From the context menu for PowerShell, choose Run as administrator
 
+### Create the agent
+
 ```PowerShell
 PS C:\> mkdir agent ; cd agent
-PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;                                          [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
+PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;[System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
 ```
+
+### Configure the Agent
+
+```PowerShell
+PS C:\agent> .\config.cmd
+```
+
+### Optionally run the agent interactively
+
+```PowerShell
+PS C:\agent> .\run.cmd
+```
+
+                That's it!
+                
 
 [UP to Index](#index)
