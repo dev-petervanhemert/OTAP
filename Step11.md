@@ -302,7 +302,9 @@ We’ll do the actual installation using PowerShell. This is actually done in tw
 - From the search results, right-click Windows PowerShell
 - From the context menu for PowerShell, choose Run as administrator
 
-                PS C:\> mkdir agent ; cd agent
-                PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;                                          [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
+```PowerShell
+PS C:\> mkdir agent ; cd agent
+PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;                                          [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
+```
 
-
+[UP to Index](#index)
