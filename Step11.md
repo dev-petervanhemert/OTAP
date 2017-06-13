@@ -271,12 +271,22 @@ The configuration process should now be running and end with a message saying Su
 The build agent and the release agent are the same installer and process in TFS2017 and a single installation of this agent will allow you to do “build” activities and also “release” activities.
 
 
-### **Download the Agent Installer**
-
 - Log in to the build server machine
 - Open a web browser
 - Navigate to your TFS web interface. By default this is http://servername:8080/tfs.
 
+### **Get Personal Access Token**
+
+- From your home page, open your profile. Go to your security details.
+> <img src="/Images/11-TFS/34-TFS.png" width="400"/>
+- Create a personal access token.
+> <img src="/Images/11-TFS/35-TFS.png" width="400"/>
+
+- For the scope select Agent Pools (read, manage) and make sure all the other boxes are cleared.
+
+- Copy the token. You'll use this token when you configure the agent.
+
+### **Download the Agent Installer**
 
 > <img src="/Images/11-TFS/31-TFS.png" width="400"/>
 
@@ -306,15 +316,35 @@ We’ll do the actual installation using PowerShell.
 ### Create the agent
 
 ```PowerShell
+PS C:\Windows\system32> cd\
 PS C:\> mkdir agent ; cd agent
 PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ;[System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win7-x64-2.112.0.zip", "$PWD")
 ```
+
+Make sure the file you downloaded is the same you put in the string.(vsts-agent-win7-x64-2.112.0.zip)
+
 
 ### Configure the Agent
 
 ```PowerShell
 PS C:\agent> .\config.cmd
 ```
+
+- “Enter server URL”:
+Type the **URL for your TFS instance** and click **Enter**
+- “Enter authentication type (press enter for Integrated)”: Press **Enter**
+- “Enter agent pool (press enter for default)”: Press **Enter**
+- “Enter agent name (press enter for [local server name])”: Press **Enter**
+- “Enter run agent as service? (Y/N)”: Type **‘Y’** and press **Enter**
+- “Enter User account to use for the service”:
+Type the **fully qualified name of the service account** (example: demo\tfsbuild) and press Enter
+- Enter Password for the account [service account]”:
+Enter the **password for the service account** and press **Enter**
+
+If you open the browser and go back to the Agent Pools tab for TFS, you should now see your new build agent in the list of Agents.
+
+
+> <img src="/Images/11-TFS/36-TFS.png" width="400"/>
 
 ### Optionally run the agent interactively
 
