@@ -15,7 +15,7 @@
 >
 > ### **STEP 1**
 
-[UP to Index](#index)
+
 
 ## Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017
 
@@ -129,6 +129,8 @@ You should now be back on the SQL Server Installation Center.
 ---
 >
 > ### **STEP 3**
+
+[UP to Index](#index)
 
 ## Install Team Foundation Server 2017
 
@@ -261,6 +263,8 @@ The configuration process should now be running and end with a message saying Su
 ---
 >
 > ### **STEP 4**
+
+[UP to Index](#index)
 
 ## Create a TFS Build / Release Server on Windows
 
