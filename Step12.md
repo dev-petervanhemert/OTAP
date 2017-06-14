@@ -77,7 +77,7 @@ If the installed JVM meets the version requirements listed, you can skip this se
  > <img src="/Images/12-sonar/sonar5.PNG" width="400"/> 
 - Open Properties for TCP/IP protocol. 
 
-- Disable dynamic ports(delete 0 if any) and specify 1433 as TCP Port.
+- IPAll: Disable dynamic ports(delete 0 if any) and specify 1433 as TCP Port.
 
  > <img src="/Images/12-sonar/sonar6.PNG" width="400"/> 
  
