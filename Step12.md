@@ -1,4 +1,4 @@
-### **Top**
+###### **Top**
 # Install SonarQube on VM-Sonar.
 
     NOTE: 
@@ -27,7 +27,7 @@
 >
 > ### **STEP 2**
 
-[UP to Index](#top)
+[Go to Top](#top)
 
 ## Configure SQL Server 2016
 
@@ -37,7 +37,7 @@
 >
 > ### **STEP 3**
 
-[UP to Index](#top)
+[Go to Top](#top)
 
 ## Install SonarQube
 
@@ -47,7 +47,7 @@
 >
 > ### **STEP 4**
 
-[UP to Index](#top)
+[Go to Top](#top)
 
 ## Connect to SonarQube Server from outside the machine
 
