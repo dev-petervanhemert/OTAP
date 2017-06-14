@@ -71,9 +71,7 @@ If the installed JVM meets the version requirements listed, you can skip this se
 
 - **Security** > right click on **Logins** > **New Login**.
 
- > <img src="/Images/12-sonar/sonar3.PNG" width="400"/> 
-
- > <img src="/Images/12-sonar/sonar4.PNG" width="400"/> 
+ > <img src="/Images/12-sonar/sonar3.PNG" width="400"/> <img src="/Images/12-sonar/sonar4.PNG" width="400"/> 
 - Open Sql Server Configuration Manager, and enable the TCP Procol.
 
  > <img src="/Images/12-sonar/sonar5.PNG" width="400"/> 
