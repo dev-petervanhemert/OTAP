@@ -188,15 +188,15 @@ or
 
 ## Connect to SonarQube Server from outside the machine
 
-Allow firewall inbound port 9000 to make http://<YOUR SONARQUBE>.westeurope.cloudapp.azure.com work.
+###### Allow firewall inbound port 9000 to make http://<YOUR SONARQUBE>.westeurope.cloudapp.azure.com work.
 
 Now open ports on the Server Windows firewall so we can access the SonarQube server and SQL from outside the machine. 
-Return to the command prompt and simply run the following commands to add the firewall rules.
+- Go to the command prompt and simply run the following commands to add the firewall rules.
 
-```
-netsh advfirewall firewall add rule name="SQL" dir=in action=allow protocol=TCP localport=1433
+```cmd
+C: xxxx/xxxx netsh advfirewall firewall add rule name="SQL" dir=in action=allow protocol=TCP localport=1433
 
-netsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TCP localport=9000
+C: xxxx/xxxxnetsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TCP localport=9000
 ```
 
 The final step is to open ports to the virtual machine with the Azure portal.
@@ -208,5 +208,5 @@ If You followed Step 8, then you've done it already.
 
 > <img src="/Images/08-SNG/03-CreateNSG.png" width="600"/> 
 
-If not, go to [Step 8](Step08.md) section **Create rules in an existing NSGs**
+If the rule is missing, then go to [Step 8](Step08.md) section **Create rules in an existing NSGs**
 
