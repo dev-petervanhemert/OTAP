@@ -33,19 +33,15 @@ If the installed JVM meets the version requirements listed, you can skip this se
 
 - Download [Java SE Runtime Environment](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) and make sure you select the one corresponding to your current operation system.
 	
- ![](Images/12-sonar/sonar1.PNG)
+ > <img src="/Images/12-sonar/sonar1.PNG" width="400"/> 
 		
 	NOTE: 
 	SonarQube does not require the full Java JDK (Java SE Development Kit) 
 	to run- you only need the JRE (Java SE Runtime Environment).
 
-
-
-
-
-
-
-
+**Install Java JRE**
+- Install **Java SE Runtime Environment** on the destination server.
+ > <img src="/Images/12-sonar/sonar2.png" width="400"/> 	
 
 
 ---
