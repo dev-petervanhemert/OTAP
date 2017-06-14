@@ -156,7 +156,12 @@ Now be sure to select the correct Collation.
 > <img src="/Images/12-sonar/02-Sonar.png" width="400"/>    
 
 - Run InstallNTServices.bat in C:\SonarQube\sonarqube-6.3.1\bin\windows-x86-64 
-- Run StartNTService.bat in C:\SonarQube\sonarqube-6.3.1\bin\windows-x86-64 
+- Run StartNTService.bat in C:\SonarQube\sonarqube-6.3.1\bin\windows-x86-64
+
+or
+
+- In run prompt type services.msc and search for SonarQube service and **start** the service.
+
 
 > <img src="/Images/12-sonar/03-Sonar.png" width="400"/> 
 
