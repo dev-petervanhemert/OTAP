@@ -54,7 +54,9 @@ If the installed JVM meets the version requirements listed, you can skip this se
 
 		Before you get to the task of creating a new database for SonarQube, you need to complete a few preparations.
 
-1. **Launch SSMS**
+### Prepare Environment.
+
+- **Launch SSMS**
 	- Launch **SQL Server Management Studio** (SSMS).
 	- Connect to the SQL Server instance on which you plan to create the database.
 	
@@ -80,7 +82,10 @@ If the installed JVM meets the version requirements listed, you can skip this se
 - IPAll: Disable dynamic ports(delete 0 if any) and specify 1433 as TCP Port.
 
  > <img src="/Images/12-sonar/sonar6.PNG" width="400"/> 
- 
+
+
+### Create Sonar Database.
+
 Back to **SQL Server Management Studio** (SSMS).
 
 - Create a new database called Sonar with sonar user as owner
