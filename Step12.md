@@ -166,7 +166,7 @@ or
 - In run prompt type services.msc and search for SonarQube service and **start** the service.
 
 
-> <img src="/Images/12-sonar/03-Sonar.png" width="400"/> 
+> <img src="/Images/12-sonar/03-Sonar.png" width="600"/> 
 
 		You can now browse SonarQube at http://localhost:9000 
 		(the default System administrator credentials are admin/admin). 
@@ -187,5 +187,20 @@ or
 [Go to Top](#top)
 
 ## Connect to SonarQube Server from outside the machine
+
+Allow firewall inbound port 9000 to make http://<YOUR SONARQUBE>.westeurope.cloudapp.azure.com work.
+
+Now open ports on the Server Windows firewall so we can access the SonarQube server and SQL from outside the machine. 
+Return to the command prompt and simply run the following commands to add the firewall rules.
+
+netsh advfirewall firewall add rule name="SQL" dir=in action=allow protocol=TCP localport=1433
+
+netsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TCP localport=9000
+
+The final step is to open ports to a virtual machine with the Azure portal.
+
+
+
+
 
 
