@@ -56,8 +56,7 @@ If the installed JVM meets the version requirements listed, you can skip this se
 
 ### Prepare Environment.
 
-- **Launch SSMS**
-	- Launch **SQL Server Management Studio** (SSMS).
+- **Launch **SQL Server Management Studio** (SSMS).**
 	- Connect to the SQL Server instance on which you plan to create the database.
 	
 - Right click on the server instance and select **properties** => **Security**. 
