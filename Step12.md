@@ -200,10 +200,12 @@ netsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TC
 ```
 
 The final step is to open ports to the virtual machine with the Azure portal.
+
 If You followed Step 8, then you've done it already.
 
-Go to the **Network Security Group**(NSG-Sonar) in the Azure portal.
-Check if you have the Inbound security rule **Allow_SonarQube_In** on port **TCP/9000**
+- Go to the **Network Security Group**(NSG-Sonar) in the Azure portal.
+- Check if you have the Inbound security rule **Allow_SonarQube_In** on port **TCP/9000**
+
 > <img src="/Images/08-SNG/03-CreateNSG.png" width="600"/> 
 
 If not, go to [Step 8](Step08.md) section **Create rules in an existing NSGs**
