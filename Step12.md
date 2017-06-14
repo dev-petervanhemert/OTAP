@@ -194,9 +194,9 @@ Now open ports on the Server Windows firewall so we can access the SonarQube ser
 - Go to the command prompt and simply run the following commands to add the firewall rules.
 
 ```cmd
-C: xxxx/xxxx netsh advfirewall firewall add rule name="SQL" dir=in action=allow protocol=TCP localport=1433
+C:\xxxx\xxxx> netsh advfirewall firewall add rule name="SQL" dir=in action=allow protocol=TCP localport=1433
 
-C: xxxx/xxxxnetsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TCP localport=9000
+C:\xxxx\xxxx> netsh advfirewall firewall add rule name="Sonar" dir=in action=allow protocol=TCP localport=9000
 ```
 
 The final step is to open ports to the virtual machine with the Azure portal.
