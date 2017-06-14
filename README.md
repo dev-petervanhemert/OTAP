@@ -29,26 +29,10 @@
 
     
 
-[Step 14. Create VM for Team Foundation Services 2017.](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
-
-
-    - Connect to domain AD
-    - Install TFS 2017 on VM.
-    
-Step 15. Create VM for SonarQube.
-
-    - Connect to domain AD
-    - Install SonarQUbe.
-    
-Step 16. Create VM for Development.
-        -Install Visual Studio 2017.
-
-
-[Step01.md]
-![GitHub Logo](/Step01.md)
-![GitHub Logo](Step01.md)
-[![](https://github.com/dev-petervanhemert/OTAP-on-Azure-Guide/blob/master/Step01.md)]
 
 
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+
+
+[I'm a relative reference to a repository file](../../../TFS-2017-Installation-Guide/blob/master/TFS2017-install-guide.pdf)
