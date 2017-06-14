@@ -130,7 +130,7 @@ Now be sure to select the correct Collation.
 
 ## Install SonarQube
 
-**Download**
+**Download and Install**
 
 - Download **SonarQube 6.3.1** from the SonarQube [downloads](https://www.sonarqube.org/downloads/).
 - Right-click on sonarqube-x.x.zip, select Properties and then select the Unblock box. 
@@ -145,6 +145,28 @@ Now be sure to select the correct Collation.
 
 
 **Configure SonarQube**
+
+- Basic configuration of SonarQube consists of making a few updates to the sonar.properties file.
+
+- This file is located in the conf folder located under the SonarQube installation folder. 
+	Example: C:\SonarQube\SonarQube-6.3.1\conf\sonar.properties
+> <img src="/Images/12-sonar/sonar12.PNG" width="400"/>
+
+
+> <img src="/Images/12-sonar/02-Sonar.png" width="400"/>    
+
+Run startsonar.bat in C:\SonarQube\sonarqube-6.3.1\bin\windows-x86-64, to test.
+
+> <img src="/Images/12-sonar/03-Sonar.png" width="400"/> 
+
+		You can now browse SonarQube at http://localhost:9000 
+		(the default System administrator credentials are admin/admin). 
+
+
+
+
+
+
 
 
 
