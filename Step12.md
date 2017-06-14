@@ -52,61 +52,60 @@ If the installed JVM meets the version requirements listed, you can skip this se
 
 ## Configure SQL Server 2016
 
-Before you get to the task of creating a new database for SonarQube, you need to complete a few preparations.
+		Before you get to the task of creating a new database for SonarQube, you need to complete a few preparations.
 
 1. **Launch SSMS**
 	- Launch **SQL Server Management Studio** (SSMS).
 	- Connect to the SQL Server instance on which you plan to create the database.
- - Select left button on the server instance and select properties => Security.
- 
-
+	
+- Right click on the server instance and select **properties** => **Security**. 
 > <img src="/Images/12-sonar/00-Sonar.png" width="400"/>  
 
+- Select the **SQL Server and Windows Authentication**
 > <img src="/Images/12-sonar/01-Sonar.png" width="400"/>   
 
  
- - Select the **SQL Server and Windows Authentication**
+
  
-> -Create a user with SQL Server authentication, called sonar with a password.
+- Create a user with SQL Server authentication, called **sonar** with a password.
 
-> -Security > right click on Logins > New Login.
-
+- **Security** > right click on **Logins** > **New Login**.
 
  > <img src="/Images/12-sonar/sonar3.PNG" width="400"/> 
 
  > <img src="/Images/12-sonar/sonar4.PNG" width="400"/> 
-> Then you should open Sql Server Configuration Manager, and you must enable the TCP Procol.
-
+- Open Sql Server Configuration Manager, and enable the TCP Procol.
 
  > <img src="/Images/12-sonar/sonar5.PNG" width="400"/> 
-> Open Properties for TCP/IP protocol. 
+- Open Properties for TCP/IP protocol. 
 
-> Disable dynamic ports and specify 1433 as TCP Port.
-
+- Disable dynamic ports(delete 0 if any) and specify 1433 as TCP Port.
 
  > <img src="/Images/12-sonar/sonar6.PNG" width="400"/> 
+ 
 Back to **SQL Server Management Studio** (SSMS).
 
-> Create a new database called Sonar with sonar user as owner
+- Create a new database called Sonar with sonar user as owner
+> <img src="/Images/12-sonar/sonar7.PNG" width="400"/> 
 
+Now be sure to select the correct Collation. 
 
- > <img src="/Images/12-sonar/sonar7.PNG" width="400"/> 
-> Now be sure to select the correct Collation, remember that you should use a collation that is Case Sensitive and Accent Sensitive, like 
+- SQL_Latin1_General_CP1_CS_AS.
 
-> SQL_Latin1_General_CP1_CS_AS.
-
-> Specify the right Collation for the database. It should be CS and AS.
+		NOTA: Specify the right Collation for the database. It should be CS and AS.
 
 
  > <img src="/Images/12-sonar/sonar8.PNG" width="400"/> 
 
-> Now, just to be sure that everything is ok, try to connect from Management Studio using the port 1433 and with user sonar. 
+		Now, just to be sure that everything is ok, 
+		try to connect from Management Studio using the port 1433 and with user sonar. 
+		To specify port you should use a comma between server name and the port.
 
-> To specify port you should use a comma between server name and the port.
 
-
- > <img src="/Images/12-sonar/sonar9.PNG" width="400"/> 
-> Verify that you can see Sonar database. If you are able to connect and see Sonar Db you have everything ready. 
+ > <img src="/Images/12-sonar/sonar9.PNG" width="400"/>  
+ 
+ 		Verify that you can see Sonar database. 
+ 		If you are able to connect and see Sonar Db you have everything ready. 
 
 
 
