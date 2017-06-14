@@ -1,6 +1,8 @@
 # Install SonarQube on VM-Sonar.
 
-    **NOTE:** In this guide, we will demonstrate the installation and configurations using an Azure VM server 2016 r2 and sql 2016 express. 
+    NOTE: 
+    In this guide, we will demonstrate the installation and configurations using an 
+    Azure VM server Datacenter 2016  and sql 2016 express. 
 
 ### **Index**
 
