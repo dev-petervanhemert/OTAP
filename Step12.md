@@ -1,6 +1,7 @@
 ###### **Top**
 
-    **Deployment Type**
+    Deployment Type:
+    
     - TFS Services and SQL Server are hosted on a single computer and SonarQube (all components) on a separate machine.
     - Suitable for evaluation in production or near-production environments.
 
