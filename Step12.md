@@ -130,6 +130,23 @@ Now be sure to select the correct Collation.
 
 ## Install SonarQube
 
+**Download**
+
+- Download **SonarQube 6.3.1** from the SonarQube [downloads](https://www.sonarqube.org/downloads/).
+- Right-click on sonarqube-x.x.zip, select Properties and then select the Unblock box. 
+ > <img src="/Images/12-sonar/sonar10.PNG" width="400"/> 
+
+
+- Unzip SonarQube-x.x.zip on to a drive, for example use C:\SonarQube\
+ > <img src="/Images/12-sonar/sonar11.PNG" width="400"/> 
+
+
+- At this point, the installation is complete.
+
+
+**Configure SonarQube**
+
+
 
 
 ---
