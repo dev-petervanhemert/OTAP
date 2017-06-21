@@ -10,6 +10,8 @@
 
 - [Step 4 - Create a TFS Build / Release Server on Windows](#step-4)
 
+- [Step 5 - Install Visual Studio 2017](#step-5)
+
 ---
 >
 >
@@ -356,3 +358,12 @@ PS C:\agent> .\run.cmd
                 
 
 [UP to Index](#index)
+
+
+
+---
+>
+>
+> ### **STEP 5**
+
+## Install Visual Studio 2017
