@@ -367,3 +367,6 @@ PS C:\agent> .\run.cmd
 > ### **STEP 5**
 
 ## Install Visual Studio 2017
+
+For some reason you need Visual Studio to be installed to let the build definition work with the Agent.
+So Install Visual Studio 2017.
