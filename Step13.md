@@ -16,7 +16,7 @@
 >
 >
 > ### **STEP 1**
-
+[UP to Index](#index)
 
 
 ## Create a Team Project in TFS 2017
@@ -28,7 +28,7 @@
 >
 >
 > ### **STEP 2**
-
+[UP to Index](#index)
 
 
 ## Create Build definition
@@ -44,7 +44,7 @@
 >
 >
 > ### **STEP 3**
-
+[UP to Index](#index)
 
 
 ## Connect to team project Visual Studio 2017
@@ -63,7 +63,7 @@
 >
 >
 > ### **STEP 4**
-
+[UP to Index](#index)
 
 
 ## Build the project with first commit
@@ -81,7 +81,20 @@
 >
 >
 > ### **STEP 5**
-
+[UP to Index](#index)
 
 
 ## Create release
+
+
+
+
+
+
+
+
+
+
+
+
+[UP to Index](#index)
