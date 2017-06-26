@@ -27,7 +27,24 @@
 
 ### Connect to Created TFS 2017 Team Project from Visual Studio 2017.
 
-Images/13-VS/01-vsConnect.png
+
+> <img src="/Images/13-VS/01-vsConnect.png" width="400"/> 
+ 
+> <img src="/Images/13-VS/02-vsConnect.png" width="400"/> 
+  
+> <img src="/Images/13-VS/03-vsConnect.png" width="400"/> 
+   
+> <img src="/Images/13-VS/04-vsConnect.png" width="400"/> 
+    
+> <img src="/Images/13-VS/05-vsConnect.png" width="400"/> 
+     
+> <img src="/Images/13-VS/06-vsConnect.png" width="400"/> 
+    
+> <img src="/Images/13-VS/07-vsConnect.png" width="400"/> 
+      
+      
+      
+
 
 
 
