@@ -19,10 +19,13 @@
 [UP to Index](#index)
 
 
-## Create a Team Project in TFS 2017
+## Create or connect to a Team Project.
 
+### Create a new Team Project in TFS 2017
 
+### Create a new Team Project in TFS 2017 from Visual Studio 2017
 
+### Connect to a Team project in TFS 2017 from existing solution in VS 2017.
 
 ---
 >
