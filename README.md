@@ -25,7 +25,7 @@
 
 [Step 12. Install SonarQube on VM-Sonar.](Step12.md)
 
-[Step 13. Visual Studio 2017 with OTAP TFS 2017](Step13.md)
+[Step 13.  OTAP TFS 2017 with Visual Studio 2017 Workflow](Step13.md)
 
     
 
