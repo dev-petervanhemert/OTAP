@@ -23,9 +23,12 @@
 
 
 
-### Create a new Team Project in TFS 2017 and connect an existing Visual Studio Solution.
+### Create a new Team Project in TFS 2017 and connect to an existing or new Visual Studio Solution.
 
-### Connect to Created TFS 2017 Team Project from Visual Studio 2017.
+> <img src="/Images/13-VS/01-vsConnect.png" width="400"/> 
+
+
+### Connect to TFS 2017 Team Project with Visual Studio 2017 solution.
 
 
 > <img src="/Images/13-VS/01-vsConnect.png" width="400"/> 
