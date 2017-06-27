@@ -8,9 +8,9 @@
 
 - [Step 3 - Add SonarQube to build definition](#step-3)
 
-- [Step 4 - Build the project with first commit](#step-4)
+- [Step 4 - Create release](#step-4)
 
-- [Step 5 - Create release](#step-5)
+- [Step 5 - ??????????](#step-5)
 
 ---
 >
@@ -55,11 +55,6 @@
 > <img src="/Images/13-VS/07-vsConnect.png" width="400"/> 
       
       
-  
-### Clone TFS Team Project into VS 2017 and create a New solution.
-
-
-
 ---
 >
 >
@@ -83,7 +78,7 @@
 [UP to Index](#index)
 
 
-## Connect to team project Visual Studio 2017
+## Add SonarQube to build definition
 
 
 
@@ -102,7 +97,7 @@
 [UP to Index](#index)
 
 
-## Build the project with first commit
+## Create release
 
 
 
@@ -120,7 +115,7 @@
 [UP to Index](#index)
 
 
-## Create release
+## ??????????
 
 
 
