@@ -25,7 +25,13 @@
 
 ### Create a new Team Project in TFS 2017 and connect to an existing or new Visual Studio Solution.
 
-> <img src="/Images/13-VS/01-vsConnect.png" width="400"/> 
+> <img src="/Images/13-VS/01-connect.png" width="400"/> 
+
+> <img src="/Images/13-VS/02-connect.png" width="400"/> 
+
+> <img src="/Images/13-VS/04-connect.png" width="400"/> 
+
+> <img src="/Images/13-VS/05-connect.png" width="400"/> 
 
 
 ### Connect to TFS 2017 Team Project with Visual Studio 2017 solution.
