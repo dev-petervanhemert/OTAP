@@ -37,7 +37,7 @@
 > <img src="/Images/13-VS/04-connect.png" width="400"/> 
 
 
-### Connect to TFS 2017 Team Project with Visual Studio 2017 solution.
+### Clone a TFS 2017 Team Project with Visual Studio 2017 solution.
 
 
 > <img src="/Images/13-VS/01-vsConnect.png" width="400"/> 
@@ -55,18 +55,10 @@
 > <img src="/Images/13-VS/07-vsConnect.png" width="400"/> 
       
       
-      
+  
+### Clone TFS Team Project into VS 2017 and create a New solution.
 
 
-
-
-
-
-
-
-### Create a new Team Project in TFS 2017 from Visual Studio 2017
-
-### Connect to a Team project in TFS 2017 from existing solution in VS 2017.
 
 ---
 >
