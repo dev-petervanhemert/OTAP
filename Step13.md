@@ -29,9 +29,9 @@
 
 > <img src="/Images/13-VS/02-connect.png" width="400"/> 
 
-> <img src="/Images/13-VS/04-connect.png" width="400"/> 
+> <img src="/Images/13-VS/03-connect.png" width="400"/> 
 
-> <img src="/Images/13-VS/05-connect.png" width="400"/> 
+> <img src="/Images/13-VS/04-connect.png" width="400"/> 
 
 
 ### Connect to TFS 2017 Team Project with Visual Studio 2017 solution.
