@@ -29,6 +29,9 @@
 
 > <img src="/Images/13-VS/02-connect.png" width="400"/> 
 
+- Create OR Open a solution.
+- Select Add to Source control
+
 > <img src="/Images/13-VS/03-connect.png" width="400"/> 
 
 > <img src="/Images/13-VS/04-connect.png" width="400"/> 
