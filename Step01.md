@@ -1,7 +1,12 @@
+# OTAP TFS 2017 with Visual Studio 2017 Workflow.
 
-# Step 1
+[Back to Main Menu](README.md)
+---
+>
+>
+> ### **STEP 1**
+[UP to Index](#index)
 
-### [Back to Menu](README.md)
 
 ## Create an Azure Active Directory tenant.
 
