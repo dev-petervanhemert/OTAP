@@ -1,5 +1,7 @@
 # Install Team Foundation Server 2017 on Azure
 
+[Back to Main Menu](README.md)
+
 ### **Index**
 
 - [Step 1 - Install Pre-requisites for SQL Server 2016 and Team Foundation Server 2017](#step-1)
@@ -60,7 +62,7 @@ Before you can install SQL Server or Team Foundation Server, you’ll need to en
 >
 > ### **STEP 2**
 
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Install SQL Server 2016
 
@@ -132,7 +134,7 @@ You should now be back on the SQL Server Installation Center.
 >
 > ### **STEP 3**
 
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Install Team Foundation Server 2017
 
@@ -266,7 +268,7 @@ The configuration process should now be running and end with a message saying Su
 >
 > ### **STEP 4**
 
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Create a TFS Build / Release Server on Windows
 
@@ -357,7 +359,7 @@ PS C:\agent> .\run.cmd
                 That's it!
                 
 
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 
@@ -370,3 +372,6 @@ PS C:\agent> .\run.cmd
 
 For some reason you need Visual Studio to be installed to let the build definition work with the Agent.
 So Install Visual Studio 2017.
+
+
+[UP to Index](#index) | [Back to Main Menu](README.md)
