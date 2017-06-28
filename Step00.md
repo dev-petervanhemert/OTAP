@@ -1,6 +1,8 @@
 
 # Prepare Azure for OTAP in the Cloud.
 
+### [Back to Main Menu](#README.md)
+
 ### **Index**
 
 - [Step 1. Create or config Azure Active Directory.](#step-1)
