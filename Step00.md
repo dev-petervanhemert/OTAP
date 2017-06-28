@@ -30,7 +30,7 @@
 >
 >
 > ### **STEP 1**
-[UP to Index](#index) | [Back to Main Menu](README.md)
+[UP to Index](#index) || [Back to Main Menu](README.md)
 
 
 ## Create or config Azure Active Directory.
