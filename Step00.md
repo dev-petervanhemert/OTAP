@@ -30,7 +30,7 @@
 >
 >
 > ### **STEP 1**
-[UP to Index](#index) || [Back to Main Menu](README.md)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create or config Azure Active Directory.
@@ -48,7 +48,7 @@
 >
 >
 > ### **STEP 2**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Add a user to your Azure Active Directory tenant.
@@ -94,7 +94,7 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 >
 >
 > ### **STEP 3**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create the Azure AD DC administrators group.
@@ -129,7 +129,7 @@ To complete the next step the new AAD user will need access to an Azure Subscrip
 >
 >
 > ### **STEP 4**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create an Azure virtual network (Classic).
@@ -163,7 +163,7 @@ To ascertain the Azure regions in which Azure Active Directory Domain Services i
 >
 >
 > ### **STEP 5**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create AAD Domain Services.
@@ -232,7 +232,7 @@ Additional Azure Active Directory Domain Services configuration options appear o
 >
 >
 > ### **STEP 6**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Update the DNS settings for the classic Azure virtual network.
@@ -270,7 +270,7 @@ Additional Azure Active Directory Domain Services configuration options appear o
 >
 >
 > ### **STEP 7**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create Virtual Network (Resource Management) DNS and peering.
@@ -345,7 +345,7 @@ A few seconds after clicking OK to create the peering, the PeeringVnet_RM_with_C
 >
 >
 > ### **STEP 8**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create network security groups using the Azure portal.
@@ -391,7 +391,7 @@ Name: Allow_RDP_In
 >
 >
 > ### **STEP 9**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create Storage Account.
@@ -418,7 +418,7 @@ Click Create.
 >
 >
 > ### **STEP 10**
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 
 ## Create VM Windows Server.
@@ -509,5 +509,5 @@ click OK.
 
             You’ll be notified that you’ll need to reboot this server.
 
-[UP to Index](#index)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
