@@ -4,7 +4,7 @@
 ---
 >
 >
-> ### **STEP 1**  |  [UP to Index](#index)
+> ### **STEP 1**  |  ##### [UP to Index](#index)
 
 
 ## Create an Azure Active Directory tenant.
