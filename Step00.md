@@ -1,7 +1,7 @@
 
 # Prepare Azure for OTAP in the Cloud.
 
-### [Back to Main Menu](#README.md)
+### [Back to Main Menu](README.md)
 
 ### **Index**
 
