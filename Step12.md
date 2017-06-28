@@ -1,17 +1,19 @@
-###### **Top**
+
+# Install SonarQube on VM-Sonar.
 
 [Back to Main Menu](README.md)
 
+    NOTE: 
+    
     Deployment Type:
     
     - TFS Services and SQL Server are hosted on a single computer and SonarQube (all components) on a separate machine.
     - Suitable for evaluation in production or near-production environments.
-
-# Install SonarQube on VM-Sonar.
-
-    NOTE: 
+    
     In this guide, we will demonstrate the installation and configurations using an 
     Azure VM server Datacenter 2016  and sql 2016 express. 
+    
+    
 
 ### **Index**
 
