@@ -1,5 +1,7 @@
 ###### **Top**
 
+[Back to Main Menu](README.md)
+
     Deployment Type:
     
     - TFS Services and SQL Server are hosted on a single computer and SonarQube (all components) on a separate machine.
@@ -48,7 +50,7 @@ If the installed JVM meets the version requirements listed, you can skip this se
 >
 > ### **STEP 2**
 
-[Go to Top](#top)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Configure SQL Server 2016
 
@@ -126,7 +128,7 @@ Now be sure to select the correct Collation.
 >
 > ### **STEP 3**
 
-[Go to Top](#top)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Install SonarQube
 
@@ -184,7 +186,7 @@ or
 >
 > ### **STEP 4**
 
-[Go to Top](#top)
+[UP to Index](#index) | [Back to Main Menu](README.md)
 
 ## Connect to SonarQube Server from outside the machine
 
@@ -210,3 +212,5 @@ If You followed Step 8, then you've done it already.
 
 If the rule is missing, then go to [Step 8](Step08.md) section **Create rules in an existing NSGs**
 
+
+[UP to Index](#index) | [Back to Main Menu](README.md)
