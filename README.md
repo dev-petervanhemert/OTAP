@@ -1,5 +1,5 @@
 # OTAP-on-Azure-Guide
-### [START GUIDE](Step01.md)
+
 
 [Step 1. Prepare Azure for OTAP in the Cloud.](Step00.md)
 
