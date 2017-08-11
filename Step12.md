@@ -208,5 +208,6 @@ If You followed Step 8, then you've done it already.
 
 If the rule is missing, then go to [Step 8](Step08.md) section **Create rules in an existing NSGs**
 
+Connect with the sonarQube server: http://xxxxxxxxxx.westeurope.cloudapp.azure.com:9000
 
 [UP to Index](#index) | [Back to Main Menu](README.md)
